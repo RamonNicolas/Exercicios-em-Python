@@ -1,2 +1,3 @@
-# Exercicios-em-Python
-Exercicios utilizados na faculdade e em desafios externos todos em Python 
+# Exercicios em Python
+
+Alguns exercicios desenvolvidos em Python
